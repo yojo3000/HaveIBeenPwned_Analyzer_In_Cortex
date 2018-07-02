@@ -1,0 +1,13 @@
+{
+    "name": "HaveIBeenPwned",
+    "version": "1.0",
+    "author": "",
+    "url": "",
+    "license": "",
+    "description": "Just Use it. Stop asking",
+    "dataTypeList": ["email", "mail"],
+    "baseConfig": "HaveIBeenPwned",
+    "config": {
+    },
+    "command": "HaveIBeenPwned/haveibeenpwned.py"
+}
